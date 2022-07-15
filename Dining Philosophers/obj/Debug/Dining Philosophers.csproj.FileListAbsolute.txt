@@ -1,0 +1,14 @@
+D:\repos\Dining Philosophers\Dining Philosophers\bin\Debug\Dining Philosophers.exe.config
+D:\repos\Dining Philosophers\Dining Philosophers\bin\Debug\Dining Philosophers.exe
+D:\repos\Dining Philosophers\Dining Philosophers\bin\Debug\Dining Philosophers.pdb
+D:\repos\Dining Philosophers\Dining Philosophers\bin\Debug\RJCodeAdvance.RJControls.dll
+D:\repos\Dining Philosophers\Dining Philosophers\obj\Debug\Dining Philosophers.csproj.AssemblyReference.cache
+D:\repos\Dining Philosophers\Dining Philosophers\obj\Debug\Dining_Philosophers.MainForm.resources
+D:\repos\Dining Philosophers\Dining Philosophers\obj\Debug\Dining_Philosophers.Properties.Resources.resources
+D:\repos\Dining Philosophers\Dining Philosophers\obj\Debug\Dining Philosophers.csproj.GenerateResource.cache
+D:\repos\Dining Philosophers\Dining Philosophers\obj\Debug\Dining Philosophers.csproj.CoreCompileInputs.cache
+D:\repos\Dining Philosophers\Dining Philosophers\obj\Debug\Dining Philosophers.csproj.CopyComplete
+D:\repos\Dining Philosophers\Dining Philosophers\obj\Debug\Dining Philosophers.exe
+D:\repos\Dining Philosophers\Dining Philosophers\obj\Debug\Dining Philosophers.pdb
+D:\repos\Dining Philosophers\Dining Philosophers\bin\Debug\FontAwesome.Sharp.dll
+D:\repos\Dining Philosophers\Dining Philosophers\obj\Debug\Dining_Philosophers.Resources.resources
